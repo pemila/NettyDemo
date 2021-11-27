@@ -1,4 +1,4 @@
-package com.pemila.netty.discard;
+package com.pemila.netty.basic.discard;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

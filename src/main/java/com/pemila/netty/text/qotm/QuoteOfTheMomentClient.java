@@ -1,4 +1,4 @@
-package com.pemila.netty.qotm;
+package com.pemila.netty.text.qotm;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.Unpooled;

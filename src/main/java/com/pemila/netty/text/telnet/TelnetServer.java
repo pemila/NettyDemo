@@ -1,4 +1,4 @@
-package com.pemila.netty.telnet;
+package com.pemila.netty.text.telnet;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.EventLoopGroup;

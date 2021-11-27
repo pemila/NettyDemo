@@ -1,4 +1,4 @@
-package com.pemila.netty.echo;
+package com.pemila.netty.basic.echo;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

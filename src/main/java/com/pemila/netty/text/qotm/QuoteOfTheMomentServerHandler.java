@@ -1,4 +1,4 @@
-package com.pemila.netty.qotm;
+package com.pemila.netty.text.qotm;
 
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelHandlerContext;

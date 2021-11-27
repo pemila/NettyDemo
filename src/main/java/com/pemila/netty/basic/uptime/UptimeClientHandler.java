@@ -1,4 +1,4 @@
-package com.pemila.netty.uptime;
+package com.pemila.netty.basic.uptime;
 
 import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;

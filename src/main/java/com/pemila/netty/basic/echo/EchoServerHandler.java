@@ -1,4 +1,4 @@
-package com.pemila.netty.echo;
+package com.pemila.netty.basic.echo;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

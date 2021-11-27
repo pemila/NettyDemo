@@ -1,4 +1,4 @@
-package com.pemila.netty.uptime;
+package com.pemila.netty.basic.uptime;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
